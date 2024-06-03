@@ -8,7 +8,13 @@
 
 ```bash
 git clone https://github.com/RiestelX/nest-rsa-api.git
+```
+
+```bash
 cd nest-rsa-api
+```
+
+```bash
 npm install
 ```
 
@@ -20,4 +26,4 @@ npm run start
 
 ## API Document
 
-- Swagger UI - [API Document](http://localhost:3000/api-docs)
+- (localhost) Swagger UI - [API Document](http://localhost:3000/api-docs)
